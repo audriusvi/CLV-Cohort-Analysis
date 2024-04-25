@@ -1,4 +1,4 @@
-# CLV-Cohort-Analysis
+# CLV Cohort Analysis
 ## The aim of the project
 To perform CLV 12 weeks cohort analysis with a given data set from "turing_data_analytics" database.
 ## Tools used
