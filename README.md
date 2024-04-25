@@ -77,3 +77,18 @@ WHERE
 ORDER BY
   week;
 ```
+## Visualizations
+The results of the query above are displayed in Google Sheets as Weekly Average Revenue by Cohorts. Additional calculations have been made to get Weekly Cumulative Revenue by Cohorts and Weekly Revenue Prediction by Cohorts.
+
+![image](https://github.com/audriusvi/CLV-Cohort-Analysis/assets/168005242/fc0a1741-de20-4039-8d64-b517f4446170)
+
+![image](https://github.com/audriusvi/CLV-Cohort-Analysis/assets/168005242/769ff7d7-89f3-4694-8038-72c475b4bc56)
+
+![image](https://github.com/audriusvi/CLV-Cohort-Analysis/assets/168005242/7ca2f0cd-08a6-4133-bbde-968ecca4004a)
+
+## Insights
+- After conducting the cohort analysis, we observed a significant increase in revenue during the week of 2021-01-24. This can be attributed to special offers, particularly those associated with **Black Friday** and the **Christmas period**.
+
+- The Customer Lifetime Value cohorts reveal an interesting insight: while the revenue increase triggered by Black Friday and the Christmas period is very noticeable for week 0, cohorts with **lower week 0 revenue** in the **longer term perform better**.
+
+- The forecast of the Average Customer Lifetime Value shows that, on average, we can expect a CLV of **1.47 USD**, which is **not sustainable** considering that the acquisition cost alone is 2 USD. We may need to review our customer acquisition strategy.
